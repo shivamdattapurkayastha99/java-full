@@ -1,0 +1,7 @@
+package shivam;
+
+public class shivam_z {
+    public static void main(String[] args) {
+        System.out.println("shivam_z");
+    }
+}

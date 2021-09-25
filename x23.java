@@ -17,8 +17,13 @@ class AvonCycle implements Bicycle{
     public void speedUp(int increment){
         System.out.println("speed up");
     }
+
+}
+public class x23 {
     public static void main(String[] args) {
         AvonCycle shivamcycle=new AvonCycle();
         shivamcycle.applyBrake(1);
+        System.out.println(shivamcycle.a);
+
     }
 }
